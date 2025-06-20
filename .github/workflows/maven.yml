@@ -16,7 +16,7 @@ on:
 
 env:
   DOCKER_IMAGE: empbackend #springbootreactjs
-  DOCKER_TAG: 0.2
+  DOCKER_TAG: 0.3
 
 jobs:
   build:
